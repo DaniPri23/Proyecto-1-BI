@@ -4,7 +4,6 @@
 CREATE SCHEMA IF NOT EXISTS staging;
 
 -- =========================================
--- LIMPIEZA (por si ya existían)
 -- =========================================
 DROP TABLE IF EXISTS staging.stg_matricula;
 DROP TABLE IF EXISTS staging.stg_grupo_oferta;
