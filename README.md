@@ -35,7 +35,6 @@ Estructura del repositorio:
 ├── README.md 
 ├── data/ 
 ├── database/ 
-├── etl/ 
 ├── nifi/ 
 ├── analytics/ 
 ├── diagrams/ 
