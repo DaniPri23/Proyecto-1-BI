@@ -17,10 +17,18 @@ Flujo: Fuentes de datos -> ETL -> Modelo Dimensional -> Dashboard
 Herramientas utilizadas:
 - Apache NiFi
 - GitHub
-  (PEND)
+- Metabase
 
 Instrucciones de ejecución:
-(PEND)
+1. Clonar el repositorio
+2. Configuración del entorno: instalar PostgreSQL, Apache NiFi y Metabase.
+3. Crear base de datos.
+4. Crear esquemas y tablas.
+5. Carga de dimensiones.
+6. Ejecutar el ETL para la tabla de hechos en Apache NiFi.
+7. Verificar datos
+8. Configurar Metabase.
+9. Usar el sistema Metabase.
 
 Estructura del repositorio:
 │ 
